@@ -1,0 +1,7 @@
+div {
+  display: flex;
+  background: steelblue;
+  border: black 2px solid;
+  justify-content: center;
+  width: fit-content;
+}
